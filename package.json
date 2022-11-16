@@ -1,0 +1,16 @@
+{
+  "name": "tindog-start-master",
+  "version": "1.0.0",
+  "description": "TinDog Starting Files",
+  "main": "index.js",
+  "scripts": {
+    "dev": "dead-server --host=localhost --port=4203",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Vladimir, Vladimir.Karin@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "dead-server": "^1.0.9"
+  }
+}
